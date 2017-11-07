@@ -3,13 +3,13 @@
 
 ---
 
-# Becasue I Said So!
+# Because I Said So!
 
 ---
 
 ### Isolated and Explicit Environment
-1. Dependecies are specific to the project
-2. The OS your code runs in doesn't change unless you change it
+1. Dependencies are specific to the project
+2. The OS and Environment your code runs in doesn't change unless you change it
 
 ---
 
